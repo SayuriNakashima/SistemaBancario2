@@ -22,5 +22,11 @@ O sistema implementa as seguintes operações:
 
 ## Tecnologias
 
-- Linguagem: **Python 3**  
+- Linguagem: **Python 3**
+
+## Projeto da DIO
+
+Projeto desenvolvido durante o curso da [Digital Innovation One (DIO)](https://www.dio.me/).
+
+[![DIO](https://img.shields.io/badge/Powered%20by-DIO-%237734BE?style=for-the-badge)](https://www.dio.me/)
 
